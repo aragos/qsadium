@@ -19,8 +19,10 @@
 	<string>Adium</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
 	<key>CFBundleVersion</key>
-	<string>9</string>
+	<string>B</string>
 	<key>NSPrincipalClass</key>
 	<string>Adium</string>
 	<key>QSActions</key>
@@ -56,11 +58,13 @@
 			<string>Mail &amp; Chat</string>
 		</array>
 		<key>description</key>
-		<string>Adds Adium contacts to the catalogue (searchable by both display and account name) and provides an action to open a chat with them. Requires Adium 1.5 or later.</string>
+		<string>Search Adium contacts and open chats.</string>
+		<key>extendedDescription</key>
+		<string>Adds Adium contacts to the catalogue (searchable by both display and account name) and provides an action to open a chat with them. Requires Adium 1.5 or later.
+
+</string>
 		<key>icon</key>
 		<string>com.adiumx.adiumx</string>
-		<key>qsversion</key>
-		<string>29CC</string>
 		<key>relatedBundles </key>
 		<array>
 		</array>
@@ -90,9 +94,6 @@
 			<key>AdiumContactSource</key>
 			<string>AdiumContactSource</string>
 		</dict>
-		<key>QSPreferencePanes</key>
-		<dict>
-		</dict>
 		<key>QSTypeDefinitions</key>
 		<dict>
 			<key>AdiumContactType</key>
@@ -103,6 +104,24 @@
 				<string>Adium Contact</string>
 			</dict>
 		</dict>
+	</dict>
+	<key>QSRequirements</key>
+	<dict>
+		<key>bundles</key>
+		<array>
+			<dict>
+				<key>id</key>
+				<string>com.adiumx.adiumx</string>
+				<key>name</key>
+				<string>Adium</string>
+				<key>version</key>
+				<string>1.5</string>
+			</dict>
+		</array>
+		<key>obsoletes</key>
+		<array>
+			<string>com.blacktree.Quicksilver.AdiumPlugin</string>
+		</array>
 	</dict>
 </dict>
 </plist>

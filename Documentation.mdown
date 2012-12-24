@@ -1,0 +1,2 @@
+Adds Adium contacts to the catalogue (searchable by both display and account name) and provides an action to open a chat with them. Requires Adium 1.5 or later.
+
