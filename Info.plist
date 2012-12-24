@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Adium</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>Adium</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.aragos.adium</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Adium</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleVersion</key>
+	<string>9</string>
+	<key>NSPrincipalClass</key>
+	<string>Adium</string>
+	<key>QSActions</key>
+	<dict>
+		<key>OpenChat</key>
+		<dict>
+			<key>actionClass</key>
+			<string>QSAppleScriptActions</string>
+			<key>actionHandler</key>
+			<string>open_chat</string>
+			<key>actionScript</key>
+			<string>AdiumAction.scpt</string>
+			<key>directTypes</key>
+			<array>
+				<string>AdiumContactType</string>
+			</array>
+			<key>enabled</key>
+			<true/>
+			<key>icon</key>
+			<string>com.adiumx.adiumx</string>
+			<key>name</key>
+			<string>Open Chat</string>
+			<key>precedence</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>QSPlugIn</key>
+	<dict>
+		<key>author</key>
+		<string>Peter Schmitt</string>
+		<key>categories</key>
+		<array>
+			<string>Mail &amp; Chat</string>
+		</array>
+		<key>description</key>
+		<string>Adds Adium contacts to the catalogue (searchable by both display and account name) and provides an action to open a chat with them. Requires Adium 1.5 or later.</string>
+		<key>icon</key>
+		<string>com.adiumx.adiumx</string>
+		<key>qsversion</key>
+		<string>29CC</string>
+		<key>relatedBundles </key>
+		<array>
+		</array>
+	</dict>
+	<key>QSPresetAdditions</key>
+	<array>
+		<dict>
+			<key>ID</key>
+			<string>AdiumContactType</string>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Adium Contact</string>
+			<key>source</key>
+			<string>AdiumContactSource</string>
+		</dict>
+	</array>
+	<key>QSRegistration</key>
+	<dict>
+		<key>QSObjectHandlers</key>
+		<dict>
+			<key>AdiumContactType</key>
+			<string>AdiumContactSource</string>
+		</dict>
+		<key>QSObjectSources</key>
+		<dict>
+			<key>AdiumContactSource</key>
+			<string>AdiumContactSource</string>
+		</dict>
+		<key>QSPreferencePanes</key>
+		<dict>
+		</dict>
+		<key>QSTypeDefinitions</key>
+		<dict>
+			<key>AdiumContactType</key>
+			<dict>
+				<key>icon</key>
+				<string>com.adiumx.adiumx</string>
+				<key>name</key>
+				<string>Adium Contact</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

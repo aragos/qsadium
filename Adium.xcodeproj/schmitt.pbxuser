@@ -1,0 +1,453 @@
+// !$*UTF8*$!
+{
+	0259C573FE90428111CA0C5A /* Project object */ = {
+		activeBuildConfigurationName = Development;
+		activeTarget = 8D1AC9600486D14A00FE50C9 /* Adium */;
+		addToTargets = (
+			8D1AC9600486D14A00FE50C9 /* Adium */,
+		);
+		codeSenseManager = 2A59DB12139133A400558917 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					682,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					760,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					872,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					886,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					848,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					832,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 335047724;
+			PBXWorkspaceStateSaveDate = 335047724;
+		};
+		perUserProjectItems = {
+			2A59DBB61391432500558917 /* PBXTextBookmark */ = 2A59DBB61391432500558917 /* PBXTextBookmark */;
+			2A59DBB81391432500558917 /* PBXTextBookmark */ = 2A59DBB81391432500558917 /* PBXTextBookmark */;
+			2A59DC00139148C200558917 /* PBXTextBookmark */ = 2A59DC00139148C200558917 /* PBXTextBookmark */;
+			2A59DC221392600800558917 /* PBXTextBookmark */ = 2A59DC221392600800558917 /* PBXTextBookmark */;
+			2A856EF913F979D400C32E8A /* PlistBookmark */ = 2A856EF913F979D400C32E8A /* PlistBookmark */;
+			2A856EFA13F979D400C32E8A /* PBXTextBookmark */ = 2A856EFA13F979D400C32E8A /* PBXTextBookmark */;
+			2AAEF81D139C4FB300EFFF74 /* PBXTextBookmark */ = 2AAEF81D139C4FB300EFFF74 /* PBXTextBookmark */;
+			2ABF9749139C629800024517 /* PBXTextBookmark */ = 2ABF9749139C629800024517 /* PBXTextBookmark */;
+			2ABF974A139C629800024517 /* PBXTextBookmark */ = 2ABF974A139C629800024517 /* PBXTextBookmark */;
+			2ABF9767139C68CA00024517 /* PBXTextBookmark */ = 2ABF9767139C68CA00024517 /* PBXTextBookmark */;
+			2ABF9768139C68CA00024517 /* PBXTextBookmark */ = 2ABF9768139C68CA00024517 /* PBXTextBookmark */;
+			2ABF9769139C68CA00024517 /* PBXTextBookmark */ = 2ABF9769139C68CA00024517 /* PBXTextBookmark */;
+			2ABF976A139C68CA00024517 /* PBXTextBookmark */ = 2ABF976A139C68CA00024517 /* PBXTextBookmark */;
+			2ABF983D139C88A500024517 /* PBXTextBookmark */ = 2ABF983D139C88A500024517 /* PBXTextBookmark */;
+			2ABF983E139C88A500024517 /* PBXTextBookmark */ = 2ABF983E139C88A500024517 /* PBXTextBookmark */;
+			2AC93C5513A4246600A4E935 /* PBXTextBookmark */ = 2AC93C5513A4246600A4E935 /* PBXTextBookmark */;
+			2AE4014F139510D50093A31C /* PBXTextBookmark */ = 2AE4014F139510D50093A31C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2A59DB11139133A400558917 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2A59DB11139133A400558917 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2A59DB12139133A400558917 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2A59DB3C13913B8300558917 /* AdiumApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1727, 4290}}";
+			sepNavSelRange = "{1279, 13}";
+			sepNavVisRange = "{595, 1195}";
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	2A59DB5213913C8300558917 /* NSArray.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSArray.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSArray.h;
+		sourceTree = "<absolute>";
+	};
+	2A59DBB61391432500558917 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A59DBB71391432500558917 /* SBElementArray.h */;
+		name = "SBElementArray.h: 9";
+		rLen = 14;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 0;
+	};
+	2A59DBB71391432500558917 /* SBElementArray.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SBElementArray.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ScriptingBridge.framework/Versions/A/Headers/SBElementArray.h;
+		sourceTree = "<absolute>";
+	};
+	2A59DBB81391432500558917 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A59DB5213913C8300558917 /* NSArray.h */;
+		name = "NSArray.h: 112";
+		rLen = 36;
+		rLoc = 5250;
+		rType = 0;
+		vrLen = 1721;
+		vrLoc = 0;
+	};
+	2A59DC00139148C200558917 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A59DC01139148C200558917 /* QSObject.h */;
+		name = "QSObject.h: 81";
+		rLen = 50;
+		rLoc = 2911;
+		rType = 0;
+		vrLen = 1356;
+		vrLoc = 2682;
+	};
+	2A59DC01139148C200558917 /* QSObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = QSObject.h;
+		path = /Applications/Quicksilver.app/Contents/Frameworks/QSCore.framework/Versions/A/Headers/QSObject.h;
+		sourceTree = "<absolute>";
+	};
+	2A59DC221392600800558917 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A59DC231392600800558917 /* NSDate.h */;
+		name = "NSDate.h: 15";
+		rLen = 51;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 1150;
+		vrLoc = 0;
+	};
+	2A59DC231392600800558917 /* NSDate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDate.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSDate.h;
+		sourceTree = "<absolute>";
+	};
+	2A59DC261392600800558917 /* NSDictionary.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDictionary.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSDictionary.h;
+		sourceTree = "<absolute>";
+	};
+	2A856EF913F979D400C32E8A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1AC9730486D14A00FE50C9 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/schmitt/Projects/qsadium/Adium/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	2A856EFA13F979D400C32E8A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2ABF9718139C5DF600024517 /* AdiumAction.scpt */;
+		name = "AdiumAction.scpt: 14";
+		rLen = 0;
+		rLoc = 619;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 0;
+	};
+	2AAEF81D139C4FB300EFFF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2AAEF81E139C4FB300EFFF74 /* SBApplication.h */;
+		name = "SBApplication.h: 12";
+		rLen = 47;
+		rLoc = 222;
+		rType = 0;
+		vrLen = 1994;
+		vrLoc = 399;
+	};
+	2AAEF81E139C4FB300EFFF74 /* SBApplication.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SBApplication.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ScriptingBridge.framework/Versions/A/Headers/SBApplication.h;
+		sourceTree = "<absolute>";
+	};
+	2ABF9718139C5DF600024517 /* AdiumAction.scpt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1050, 669}}";
+			sepNavSelRange = "{619, 0}";
+			sepNavVisRange = "{0, 748}";
+			sepNavVisRect = "{{0, 0}, {1064, 677}}";
+			sepNavWindowFrame = "{{176, 168}, {750, 558}}";
+		};
+	};
+	2ABF9749139C629800024517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A59DB3C13913B8300558917 /* AdiumApp.h */;
+		name = "AdiumApp.h: 37";
+		rLen = 13;
+		rLoc = 1279;
+		rType = 0;
+		vrLen = 2190;
+		vrLoc = 14;
+	};
+	2ABF974A139C629800024517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BBF5817A0B1D9D84003CFF55 /* AdiumAction.h */;
+		name = "AdiumAction.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	2ABF9767139C68CA00024517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BBF5817B0B1D9D84003CFF55 /* AdiumAction.m */;
+		name = "AdiumAction.m: 11";
+		rLen = 0;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 269;
+		vrLoc = 0;
+	};
+	2ABF9768139C68CA00024517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E1EAB047068128A800774DFF /* Adium.h */;
+		name = "Adium.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 199;
+		vrLoc = 0;
+	};
+	2ABF9769139C68CA00024517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E1EAB045068128A200774DFF /* Adium.m */;
+		name = "Adium.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 180;
+		vrLoc = 0;
+	};
+	2ABF976A139C68CA00024517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BBF581820B1D9DC3003CFF55 /* AdiumSource.h */;
+		name = "AdiumSource.h: 17";
+		rLen = 0;
+		rLoc = 313;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	2ABF976E139C68D200024517 /* Adium_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1050, 677}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 234}";
+			sepNavWindowFrame = "{{153, 189}, {750, 558}}";
+		};
+	};
+	2ABF983D139C88A500024517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2ABF976E139C68D200024517 /* Adium_Prefix.pch */;
+		name = "Adium_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	2ABF983E139C88A500024517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BBF581830B1D9DC3003CFF55 /* AdiumSource.m */;
+		name = "AdiumSource.m: 27";
+		rLen = 0;
+		rLoc = 602;
+		rType = 0;
+		vrLen = 1535;
+		vrLoc = 0;
+	};
+	2AC93C5513A4246600A4E935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2ABF9718139C5DF600024517 /* AdiumAction.scpt */;
+		name = "AdiumAction.scpt: 22";
+		rLen = 0;
+		rLoc = 748;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 0;
+	};
+	2AE4014F139510D50093A31C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A59DC261392600800558917 /* NSDictionary.h */;
+		name = "NSDictionary.h: 75";
+		rLen = 46;
+		rLoc = 3181;
+		rType = 0;
+		vrLen = 1532;
+		vrLoc = 2218;
+	};
+	8D1AC9600486D14A00FE50C9 /* Adium */ = {
+		activeExec = 0;
+	};
+	8D1AC9730486D14A00FE50C9 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	BBF5817A0B1D9D84003CFF55 /* AdiumAction.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 316}";
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	BBF5817B0B1D9D84003CFF55 /* AdiumAction.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 679}}";
+			sepNavSelRange = "{190, 0}";
+			sepNavVisRange = "{0, 269}";
+			sepNavWindowFrame = "{{61, 273}, {750, 558}}";
+		};
+	};
+	BBF581820B1D9DC3003CFF55 /* AdiumSource.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 679}}";
+			sepNavSelRange = "{313, 0}";
+			sepNavVisRange = "{0, 333}";
+			sepNavWindowFrame = "{{130, 210}, {750, 558}}";
+		};
+	};
+	BBF581830B1D9DC3003CFF55 /* AdiumSource.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1050, 988}}";
+			sepNavSelRange = "{602, 0}";
+			sepNavVisRange = "{0, 1535}";
+			sepNavWindowFrame = "{{61, 273}, {750, 558}}";
+		};
+	};
+	E1EAB045068128A200774DFF /* Adium.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 679}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 180}";
+			sepNavWindowFrame = "{{107, 231}, {750, 558}}";
+		};
+	};
+	E1EAB047068128A800774DFF /* Adium.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 679}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 199}";
+			sepNavWindowFrame = "{{84, 252}, {750, 558}}";
+		};
+	};
+}
